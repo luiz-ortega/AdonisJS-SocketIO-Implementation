@@ -49,18 +49,18 @@
 
     "no-unused-vars": ["error", { "caughtErrors": "all" }],
 
-    "no-useless-return": 0,
+    "no-useless-return": 0
 
-    "space-before-function-paren": [
-      "error",
+    // "space-before-function-paren": [
+    //   "error",
 
-      {
-        "anonymous": "always",
+    //   {
+    //     "anonymous": "always",
 
-        "named": "always",
+    //     "named": "always",
 
-        "asyncArrow": "always"
-      }
-    ]
+    //     "asyncArrow": "always"
+    //   }
+    // ]
   }
 }
